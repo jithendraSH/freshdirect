@@ -1,0 +1,8 @@
+{
+  "name": "Freshdirect",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "65275ee2"
+}
